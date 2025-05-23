@@ -2,6 +2,6 @@
 layout: home
 ---
 
-# Welcome to My Blog
+# mostly Python and data
 
-This is my Jekyll blog hosted on GitHub Pages.
+Tracing my coding journey.
