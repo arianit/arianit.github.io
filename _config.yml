@@ -1,6 +1,6 @@
 title: My coding journey blog
 description: mostly Python and data - a blog by Arianit
-theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
