@@ -1,7 +1,6 @@
 ---
-layout: home
+layout: default
 title: Welcome
-
 ---
 
 Tracing my coding journey.
