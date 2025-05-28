@@ -41,11 +41,11 @@ One recurring issue was the inconsistent naming of villages in Kosovo. Village n
 
 Uploading to Wikidata means not just cleaning data for presentation but preparing it for semantic interoperability. Every cleaned record is a potential structured statement that can enhance global knowledge -- or add more chaff -- to confuse Wikdiata users.
 
-![Reconciling items](./images/openrefine_reconciliation.png)
+![Reconciling items](/images/openrefine_reconciliation.png)
 
 *Reconciling data to existing Wikidata items and creating new ones*
 
-![Building the schema](./images/wikibase_schema.png)
+![Building the schema](/images/wikibase_schema.png)
 
 *Building the schema*
 
