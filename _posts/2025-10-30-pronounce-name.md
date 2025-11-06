@@ -17,9 +17,9 @@ Record the Q numbers of both, for Arianit it's *Q20000836*.
 
 Time to enter the recording studio, browse to [LinguaLibre](https://lingualibre.org). 
 
-- Click *Record*
+- Click *Record*.
 - Login with your wiki account and allow access to it.
-- Go through the setup, describing your speaker profile
+- Go through the setup, describing your speaker profile.
 - Enter your names as two or more words.
 - Record their pronounciation and submit.
 
