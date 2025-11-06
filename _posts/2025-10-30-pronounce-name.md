@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How do you pronounce your name?
+title: How do you pronounce your name? I have an app for that.
 ---
 
 You've probably been asked this question, and have it butchered anyways. It would be helpful to have a recording you can send to conference moderators, interviewers etc.
