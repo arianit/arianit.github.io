@@ -26,6 +26,6 @@ Time to enter the recording studio, browse to [LinguaLibre](https://lingualibre.
 Now go back to the Wikidata items you created.
 
 - Click Add statement at the bottom.
-- Write down "pronounciation audio* on the left and type the name of the audio file you just created which should be in the form: *Username-Name_recorded*. Mine would be something like *Arianit-Arianit*, ie Arianit recording of Arianit.
+- Write down *pronounciation audio* on the left and type the name of the audio file you just created which should be in the form: *Username-Name_recorded*. Mine would be something like *Arianit-Arianit*, ie Arianit recording of Arianit.
 
 Now the recordings of your names will be listed on the Wikdata items, links of which you can provide to contacts. 
