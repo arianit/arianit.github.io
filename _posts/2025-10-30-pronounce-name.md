@@ -13,6 +13,7 @@ Your given and family names should be listed on Wikidata, the free and open know
 
 If your names aren't listed, [create a wiki account](https://www.wikidata.org/w/index.php?title=Special:CreateAccount&returnto=Wikidata%3AMain+Page) (if you don't already have one) and [create new items](https://www.wikidata.org/wiki/Special:NewItem). Describe them appropriately as instances of given and family name respectively. For simple examples, see the items for [Arianit](https://www.wikidata.org/wiki/Q20000836) and [Dobroshi](https://www.wikidata.org/wiki/Q61741098), my first and last names. Some names are cross-cultural and more extensively described, like [John](https://www.wikidata.org/wiki/Q4925477), but for our purpose simple describing is sufficient. 
 
+![Arianit on Wikidata](/images/Wikidata_Arianit.png)
 Record the Q numbers of both, for Arianit it's *Q20000836*.
 
 Time to enter the recording studio, browse to [LinguaLibre](https://lingualibre.org). 
@@ -23,9 +24,14 @@ Time to enter the recording studio, browse to [LinguaLibre](https://lingualibre.
 - Enter your names as two or more words.
 - Record their pronounciation and submit.
 
+![Recording screen for Arianit](/images/LinguaLibre_Arianit.png)
+
+
 Now go back to the Wikidata items you created.
 
 - Click Add statement at the bottom.
 - Write down *pronounciation audio* on the left and type the name of the audio file you just created which should be in the form: *Username-Name_recorded*. Mine would be something like *Arianit-Arianit*, ie Arianit recording of Arianit.
 
 Now the recordings of your names will be listed on the Wikdata items, links of which you can provide to contacts. 
+
+And if you'd like to do something more, you can record whole lists (personal names, place names etc.) of Wikidata items.
