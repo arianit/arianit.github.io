@@ -3,17 +3,7 @@
 
   <div class="wrapper">
     <h2 class="footer-heading">{{ site.title | escape }}</h2>
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li><a href="{{ "/feed.xml" | relative_url }}">RSS feed</a></li>
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-2">
-        <p>{{ site.description | escape }}</p>
-      </div>
-    </div>
+    <p>{{ site.description | escape }}</p>
+    <p><a href="{{ "/feed.xml" | relative_url }}">RSS feed</a></p>
   </div>
 </footer>
