@@ -56,7 +56,9 @@ Albania is Kosovo's biggest partner in both directions, and the exchange is clos
 
 *Disclaimer: networks in Kosovo are usually registered under Albania at the IP registry level. If GitHub places some of those users in Albania, part of the Kosovo-Albania figures above is really developers in Kosovo working with each other, and Albania's lead over Kosovo's other partners is smaller than shown. The data gives no way to measure this, so the Albania figures are reported as published.*
 
-Serbia is left out of the table. In the raw data it was the second largest source of contributions to Kosovo (607), ahead of Germany and the United States, and received 534 from Kosovo. We treat this as most likely developers in Kosovo on networks registered under Serbia, as described above, so it is counted as activity within Kosovo rather than with Serbia. The data can't confirm this. [Data](https://github.com/github/innovationgraph/blob/main/data/economy_collaborators.csv)
+*Serbia is left out of the table. In the raw data it was the second largest source of contributions to Kosovo (607), ahead of Germany and the United States, and received 534 from Kosovo. I treat this as most likely developers in Kosovo on networks registered under Serbia, as described above, so it is counted as activity within Kosovo rather than with Serbia. The data can't confirm this.*
+
+[Data](https://github.com/github/innovationgraph/blob/main/data/economy_collaborators.csv)
 
 ## Open-source licences
 
