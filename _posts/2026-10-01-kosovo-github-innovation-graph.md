@@ -5,7 +5,7 @@ title: Kosovo's software industry, seen through GitHub data
 
 ## In short
 
-Kosovo has the third highest number of active software developers per person in the Western Balkans, behind Slovenia and Croatia and ahead of Serbia, North Macedonia and Albania. Since 2023, coding activity has grown faster in Kosovo than anywhere else in the region. Per person, though, Kosovo is still near the bottom: 145 pushes per 1,000 residents in 2025, ahead of only Albania and Bosnia. Serbia has 248, Slovenia 304. But only 343 of Kosovo's roughly 2,500 active developers, or 13.5%, worked in repositories under an open-source licence, the lowest share in the region, so most of the code they publish can't legally be reused. GitHub's data for Kosovo starts in the last quarter of 2021.
+Kosovo has the third highest number of active software developers per person in the Western Balkans, behind Slovenia and Croatia and ahead of Serbia, North Macedonia and Albania. Since 2023, coding activity has grown faster in Kosovo than anywhere else in the region. The total amount of activity is still low, though: 145 code pushes per 1,000 residents in 2025, ahead of only Albania and Bosnia. Serbia has 248, Slovenia 304. So many people in Kosovo are coding, but each pushes less code than developers anywhere else in the region. But only 343 of Kosovo's roughly 2,500 active developers, or 13.5%, worked in repositories under an open-source licence, the lowest share in the region, so most of the code they publish can't legally be reused. GitHub's data for Kosovo starts in the last quarter of 2021.
 
 ## Before reading the numbers
 
