@@ -9,7 +9,7 @@ Kosovo has the third highest number of active software developers per person in 
 
 ## What this data is
 
-GitHub is where most of the world's developers write, store and share code. Every quarter, through its [Innovation Graph](https://innovationgraph.github.com/), it publishes how many developers are active in each country, which programming languages they use and how much they work with people abroad. It is one of the few public sources that allows comparing software workforces across countries, and governments and investors use it where official statistics are missing or late.
+GitHub is where most of the world's developers write, store and share code. Every quarter, through its [Innovation Graph](https://innovationgraph.github.com/), it publishes how many developers are active in each country, which programming languages they use and how much they work with people abroad. It is one of the few public sources that allows comparing software workforces across countries, and governments and investors use it where official statistics are missing or late. Because location comes from IP addresses, the figures cover developers working in Kosovo, not the Kosovar diaspora, who are counted in the countries where they live.
 
 GitHub started counting Kosovo separately in the last quarter of 2021, using the code XK, which [exists for cases like this](https://www.iso.org/glossary-for-iso-3166.html) where a country has no permanent international code. Before that, Kosovo is missing from the data even though developers here were working. During the first year, the figures climb mostly because location detection improved, not because of real growth, so this analysis starts in 2023.
 
