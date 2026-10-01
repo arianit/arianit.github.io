@@ -5,7 +5,7 @@ title: Kosovo's software industry, seen through GitHub data
 
 ## In short
 
-Kosovo has the third highest number of active software developers per person in the Western Balkans, behind Slovenia and Croatia and ahead of Serbia, North Macedonia and Albania. Since 2023, coding activity has grown faster in Kosovo than anywhere else in the region. Per person, though, Kosovo is still near the bottom: 145 pushes per 1,000 residents in 2025, ahead of only Albania and Bosnia. Serbia has 248, Slovenia 304. But little of the code Kosovo's developers publish carries an open-source licence, so others can't legally reuse it. GitHub's data for Kosovo starts in the last quarter of 2021.
+Kosovo has the third highest number of active software developers per person in the Western Balkans, behind Slovenia and Croatia and ahead of Serbia, North Macedonia and Albania. Since 2023, coding activity has grown faster in Kosovo than anywhere else in the region. Per person, though, Kosovo is still near the bottom: 145 pushes per 1,000 residents in 2025, ahead of only Albania and Bosnia. Serbia has 248, Slovenia 304. But only 343 of Kosovo's roughly 2,500 active developers, or 13.5%, worked in repositories under an open-source licence, the lowest share in the region, so most of the code they publish can't legally be reused. GitHub's data for Kosovo starts in the last quarter of 2021.
 
 ## Before reading the numbers
 
@@ -60,7 +60,7 @@ Serbia is left out of the table. In the raw data it was the second largest sourc
 
 Public code is not the same as open code. If the author doesn't add a licence, all rights stay reserved: others can read the code but have no right to build on it.
 
-Of Kosovo's roughly 2,500 active developers, only 343, or 13.5%, worked in repositories under the MIT licence. That is the lowest share in the region: North Macedonia 17.4%, Albania 18.5%, Bosnia 23.1%, Croatia 30.1%, Serbia 31.7%, Montenegro 33.1%, Slovenia 36.9%. In every quarter since Kosovo entered the data, MIT is the only licence it has passed the reporting threshold with. In the same quarter, Serbia passes it with seven different licences. [Data](https://github.com/github/innovationgraph/blob/main/data/licenses.csv?plain=1#L21554)
+Counting all open-source licences that pass the reporting threshold, the share of active developers working in licensed repositories in early 2026 was: Kosovo 13.5%, North Macedonia 22.1%, Albania 23.0%, Bosnia 32.5%, Montenegro 33.1%, Croatia 47.0%, Serbia 50.3%, Slovenia 60.6%. In every quarter since Kosovo entered the data, MIT is the only licence it has passed the threshold with. Serbia passes it with six (MIT, Apache, GPL-3.0, AGPL-3.0, GPL-2.0 and BSD). A developer who works under two licences is counted twice, so the shares for countries with several licences are somewhat overstated. Kosovo's, with a single licence, is not. [Data](https://github.com/github/innovationgraph/blob/main/data/licenses.csv?plain=1#L21554)
 
 Code without a licence can't legally go into commercial products or other open-source projects. Adding a licence takes a few minutes, so the problem looks like a lack of awareness rather than of skill.
 
