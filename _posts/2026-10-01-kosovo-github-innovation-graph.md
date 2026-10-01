@@ -9,7 +9,7 @@ Kosovo has the third highest number of active software developers per person in 
 
 ## Before reading the numbers
 
-Some networks in Kosovo are [registered under Albania or Serbia](https://www.ripe.net/about-us/news/ripe-ncc-response-to-arkep/), so some developers in Kosovo may be counted as Albanian or Serbian. GitHub does assign XK to many Kosovo addresses, otherwise Kosovo would not appear in the data at all, but we can't tell how many are missed. If some are, three things follow. Kosovo's figures are an undercount, so this post treats them as a minimum. Albania's and Serbia's figures are slightly inflated, so in the per-person comparisons Kosovo's real position is, if anything, better than shown. And some of what shows up as collaboration between Kosovo and Albania or Serbia may in fact be developers in Kosovo working with each other. This post takes the figures as published and assumes the error is small. That assumption needs checking with KOSIX, Kosovo's internet exchange point, or with ARKEP.
+Some networks in Kosovo are [registered under Albania or Serbia](https://www.ripe.net/about-us/news/ripe-ncc-response-to-arkep/), so some developers in Kosovo may be counted as Albanian or Serbian. GitHub does assign XK to many Kosovo addresses, otherwise Kosovo would not appear in the data at all, but we can't tell how many are missed. If some are, three things follow. Kosovo's figures are an undercount, so this post treats them as a minimum. Albania's and Serbia's figures are slightly inflated, so in the per-person comparisons Kosovo's real position is, if anything, better than shown. And some of what shows up as collaboration between Kosovo and Albania or Serbia may in fact be developers in Kosovo working with each other.
 
 ## What this data is
 
@@ -46,15 +46,15 @@ The table shows how many contributions developers in Kosovo made to code owned b
 | Kosovo contributes to | | Contributes to Kosovo | |
 |---|---|---|---|
 | Albania | 2,475 | Albania | 2,452 |
-| United States | 2,348 | Serbia | 607 |
-| France | 2,311 | Netherlands | 540 |
-| Germany | 1,738 | Germany | 341 |
-| Norway | 791 | United States | 246 |
-| Serbia | 534 | North Macedonia | 127 |
+| United States | 2,348 | Netherlands | 540 |
+| France | 2,311 | Germany | 341 |
+| Germany | 1,738 | United States | 246 |
+| Norway | 791 | North Macedonia | 127 |
+| Austria | 396 | | |
 
-Albania is Kosovo's biggest partner in both directions, and the exchange is close to even. Contributions coming from Albania are four times those from the next country, Serbia. Going the other way, Albania is only slightly ahead of the United States and France.
+Albania is Kosovo's biggest partner in both directions, and the exchange is close to even. Contributions coming from Albania are more than four times those from the next country, the Netherlands. Going the other way, Albania is only slightly ahead of the United States and France.
 
-Serbia's place as the second largest source of contributions to Kosovo, ahead of Germany and the United States, is unusual. Part of it may be developers in Kosovo on networks registered under Serbia, as described above. The data can't separate the two, so the Serbia figures in both directions should be read with that in mind. [Data](https://github.com/github/innovationgraph/blob/main/data/economy_collaborators.csv)
+Serbia is left out of the table. In the raw data it was the second largest source of contributions to Kosovo (607), ahead of Germany and the United States, and received 534 from Kosovo. We treat this as most likely developers in Kosovo on networks registered under Serbia, as described above, so it is counted as activity within Kosovo rather than with Serbia. The data can't confirm this. [Data](https://github.com/github/innovationgraph/blob/main/data/economy_collaborators.csv)
 
 ## Open-source licences
 
