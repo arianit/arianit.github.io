@@ -7,15 +7,15 @@ title: Kosovo's software industry, seen through GitHub data
 
 Kosovo has the third highest number of active software developers per person in the Western Balkans, behind Slovenia and Croatia and ahead of Serbia, North Macedonia and Albania. Since 2023, coding activity has grown faster in Kosovo than anywhere else in the region. The total amount of activity is still low, though: 145 code pushes per 1,000 residents in 2025, ahead of only Albania and Bosnia. Serbia has 248, Slovenia 304. So many people in Kosovo are coding, but each pushes less code than developers anywhere else in the region. But only 343 of Kosovo's roughly 2,500 active developers, or 13.5%, worked in repositories under an open-source licence, the lowest share in the region, so most of the code they publish can't legally be reused. GitHub's data for Kosovo starts in the last quarter of 2021.
 
-## Before reading the numbers
-
-Some networks in Kosovo are [registered under Albania or Serbia](https://www.ripe.net/about-us/news/ripe-ncc-response-to-arkep/), so some developers in Kosovo may be counted as Albanian or Serbian. GitHub does assign XK to many Kosovo addresses, otherwise Kosovo would not appear in the data at all, but we can't tell how many are missed. If some are, three things follow. Kosovo's figures are an undercount, so this post treats them as a minimum. Albania's and Serbia's figures are slightly inflated, so in the per-person comparisons Kosovo's real position is, if anything, better than shown. And some of what shows up as collaboration between Kosovo and Albania or Serbia may in fact be developers in Kosovo working with each other.
-
 ## What this data is
 
 GitHub is where most of the world's developers write, store and share code. Every quarter, through its [Innovation Graph](https://innovationgraph.github.com/), it publishes how many developers are active in each country, which programming languages they use and how much they work with people abroad. It is one of the few public sources that allows comparing software workforces across countries, and governments and investors use it where official statistics are missing or late.
 
 GitHub started counting Kosovo separately in the last quarter of 2021, using the code XK, which [exists for cases like this](https://www.iso.org/glossary-for-iso-3166.html) where a country has no permanent international code. Before that, Kosovo is missing from the data even though developers here were working. During the first year, the figures climb mostly because location detection improved, not because of real growth, so this analysis starts in 2023.
+
+## Before reading the numbers
+
+Some networks in Kosovo are [registered under Albania or Serbia](https://www.ripe.net/about-us/news/ripe-ncc-response-to-arkep/), so some developers in Kosovo may be counted as Albanian or Serbian. GitHub does assign XK to many Kosovo addresses, otherwise Kosovo would not appear in the data at all, but we can't tell how many are missed. If some are, three things follow. Kosovo's figures are an undercount, so this post treats them as a minimum. Albania's and Serbia's figures are slightly inflated, so in the per-person comparisons Kosovo's real position is, if anything, better than shown. And some of what shows up as collaboration between Kosovo and Albania or Serbia may in fact be developers in Kosovo working with each other.
 
 ## How many people develop software
 
@@ -52,7 +52,9 @@ The table shows how many contributions developers in Kosovo made to code owned b
 | Norway | 791 | North Macedonia | 127 |
 | Austria | 396 | | |
 
-Albania is Kosovo's biggest partner in both directions, and the exchange is close to even. Contributions coming from Albania are more than four times those from the next country, the Netherlands. Going the other way, Albania is only slightly ahead of the United States and France. If some Kosovo IP addresses are counted as Albania's, part of this would be developers in Kosovo working with each other. There is no way to tell how much, so Albania stays in the table.
+Albania is Kosovo's biggest partner in both directions, and the exchange is close to even. Contributions coming from Albania are more than four times those from the next country, the Netherlands. Going the other way, Albania is only slightly ahead of the United States and France.
+
+*Disclaimer: networks in Kosovo are usually registered under Albania at the IP registry level. If GitHub places some of those users in Albania, part of the Kosovo-Albania figures above is really developers in Kosovo working with each other, and Albania's lead over Kosovo's other partners is smaller than shown. The data gives no way to measure this, so the Albania figures are reported as published.*
 
 Serbia is left out of the table. In the raw data it was the second largest source of contributions to Kosovo (607), ahead of Germany and the United States, and received 534 from Kosovo. We treat this as most likely developers in Kosovo on networks registered under Serbia, as described above, so it is counted as activity within Kosovo rather than with Serbia. The data can't confirm this. [Data](https://github.com/github/innovationgraph/blob/main/data/economy_collaborators.csv)
 
