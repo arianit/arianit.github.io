@@ -11,3 +11,15 @@
   float: none;
   width: auto;
 }
+
+.site-footer,
+.site-footer .footer-col-wrapper,
+.site-footer .footer-col,
+.site-footer .footer-col p,
+.site-footer .contact-list {
+  text-align: right;
+}
+
+.site-footer .footer-col-wrapper {
+  margin-left: 0;
+}
