@@ -52,7 +52,7 @@ The table shows how many contributions developers in Kosovo made to code owned b
 | Norway | 791 | North Macedonia | 127 |
 | Austria | 396 | | |
 
-Albania is Kosovo's biggest partner in both directions, and the exchange is close to even. Contributions coming from Albania are more than four times those from the next country, the Netherlands. Going the other way, Albania is only slightly ahead of the United States and France. Some of this may also be developers in Kosovo on networks registered under Albania, which is the more common choice for Kosovo networks. There is no way to tell how much, so Albania stays in the table.
+Albania is Kosovo's biggest partner in both directions, and the exchange is close to even. Contributions coming from Albania are more than four times those from the next country, the Netherlands. Going the other way, Albania is only slightly ahead of the United States and France. If some Kosovo IP addresses are counted as Albania's, part of this would be developers in Kosovo working with each other. There is no way to tell how much, so Albania stays in the table.
 
 Serbia is left out of the table. In the raw data it was the second largest source of contributions to Kosovo (607), ahead of Germany and the United States, and received 534 from Kosovo. We treat this as most likely developers in Kosovo on networks registered under Serbia, as described above, so it is counted as activity within Kosovo rather than with Serbia. The data can't confirm this. [Data](https://github.com/github/innovationgraph/blob/main/data/economy_collaborators.csv)
 
