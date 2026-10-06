@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kontributi në projekte open source si punim universitar
+title: Kontributi në projekte open source si punë studentore
 ---
 
 Ka shumë arsye për të kontribuar në projekte open source si projekt universitar, qoftë si projekt grupor në ndonjë lëndë të caktuar, e deri te teza e baçelorit ose masterit.
